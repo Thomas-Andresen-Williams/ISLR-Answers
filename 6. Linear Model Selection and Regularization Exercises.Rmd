@@ -53,7 +53,7 @@ __(c)__
   
 __3.__ __(a)__
 
-  - (i) Decrease steadily. As s increases the constraint on beta decreases and the RSS reduces until we reach the least squares answer.
+  - (iv) Decrease steadily. As s increases the constraint on beta decreases and the RSS reduces until we reach the least squares answer.
 
 __(b)__
   - (ii) Decreases initially as RSS in reduced from the maximum value (when B=0) as we move towards the best training value for B1. Eventually starts increasing as the B values start fitting the training set extremely well, and so over fitting the test set. 
